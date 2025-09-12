@@ -31,7 +31,7 @@ const Dashboard: React.FC<DashboardProps> = ({ onLogout }) => {
     accountNumber: '8348191831',
     ifscCode: 'KKBK0006590',
     upiId: '9163615663@kotak811',
-    balance: 86908,
+    balance: 89158,
     accountHolder: 'Shubam Sarawagi',
     accountType: 'Savings Account'
   };
